@@ -2,7 +2,6 @@
 
 - 🔭 Hoje trabalho com Python
 - 🌱 Estudando SQL
-- 😄 Pronouns: Ele/Dele
 
 <div>
   <a href="https://github.com/rafaballerini">
