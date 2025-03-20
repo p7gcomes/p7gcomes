@@ -34,7 +34,6 @@
 ![snake gif](https://github.com/your-user-name/p7gcomes/blob/output/github-contribution-grid-snake.gif)
 
 
-  
-  </div>
+
   
   
