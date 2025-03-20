@@ -31,9 +31,8 @@
   <a href = "mailto:contato@rafaballerini.tech"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/p7gcomes/p7gcomes/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/your-user-name/p7gcomes/blob/output/github-contribution-grid-snake.gif)
 
-  [![readme](https://github-readme-stats.vercel.app/api/pin/?username=p7gcomes&repo=p7gcomes&theme=react)](https://github.com/p7gcomes/p7gcomes)
 
   
   </div>
