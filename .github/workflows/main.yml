@@ -1,4 +1,4 @@
-name: Generate Datas
+name: p7gcomes
 
 on:
   schedule: # execute every 12 hours
