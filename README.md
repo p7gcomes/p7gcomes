@@ -2,14 +2,13 @@
 
 Profissional de tecnologia com experiência em Análise e Governança de Dados. Cursando o 4º semestre de Gestão da Tecnologia da Informação, com conhecimentos em Python, SQL, Power BI, IA e Machine Learning. Apaixonado por aprendizado contínuo, resolução de problemas e inovação em tecnologia e dados.
 
-<div>
+  <div align="center">
   <a href="https://github.com/p7gcomes">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=p7gcomes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p7gcomes&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=p7gcomes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p7gcomes&layout=compact&langs_count=7&theme=dracula"/>
   </a>
-</div>
-
-<div style="display: inline_block"><br>
+  </div>
+  <div style="display: inline_block"><br>
 
 
   <img align="center" alt="p7gcomes-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
