@@ -33,7 +33,8 @@
 <br clear="both">
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=p7gcomes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&order=1" height="136" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=p7gcomes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&order=1" height="136" alt="stats 
+  graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=p7gcomes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false&order=2" height="135" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=p7gcomes&radius=16&theme=elegant&area=true&order=5" height="284" alt="activity-graph graph"  />
 </div>
@@ -41,11 +42,11 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-</div>
+  
+  <a href="www.linkedin.com/in/pedrogomesz" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" /></a>
+  <a href="mailto:pedrosilvagomes3107@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail logo" /></a>
+  <a href="https://www.youtube.com/c/https://www.youtube.com/@p7gomes_0" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="YouTube logo" /></a>
+  <a href="https://www.instagram.com/p7gomes_" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram logo" /></a>
 
 ###
 ![snake gif](https://github.com/p7gcomes/p7gcomes/blob/output/github-contribution-grid-snake.gif)
