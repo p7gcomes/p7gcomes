@@ -4,8 +4,8 @@ Profissional de tecnologia com experiência em Análise e Governança de Dados. 
 
   <div align="corner">
   <a href="https://github.com/p7gcomes">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=p7gcomes&show_icons=true&theme=dark&include_all_commits=true&count_private=true" style="border-radius: 10px;"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p7gcomes&layout=compact&langs_count=7&theme=dark" style="border-radius: 10px;"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=p7gcomes&show_icons=true&theme=dark&include_all_commits=true&count_private=true" style="border-radius: 10px 10px 0 0;"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p7gcomes&layout=compact&langs_count=7&theme=dark" style="border-radius: 10px 10px 0 0;"/>
   </a>
     
   <div style="display: inline_block"><br>
