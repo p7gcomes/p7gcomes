@@ -26,17 +26,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
 
-
 <h1 align="left">Stats</h1>
-
 
 <br clear="both">
 
-
 <div align="left">
   <a href="https://github.com/p7gcomes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=p7gcomes&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p7gcomes&layout=compact&langs_count=7&theme=codeSTACKr" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=p7gcomes&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p7gcomes&layout=compact&langs_count=7&theme=codeSTACKr" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=p7gcomes&radius=16&theme=elegant&area=true&order=5" height="317" alt="activity-graph graph" />
 </div>
 
