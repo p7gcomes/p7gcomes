@@ -32,11 +32,12 @@
 
 <br clear="both">
 
+
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=p7gcomes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&order=1" height="135" alt="stats 
-  graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=p7gcomes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false&order=2" height="135" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=p7gcomes&radius=16&theme=elegant&area=true&order=5" height="284" alt="activity-graph graph"  />
+  <a href="https://github.com/p7gcomes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=p7gcomes&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p7gcomes&layout=compact&langs_count=7&theme=codeSTACKr" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=p7gcomes&radius=16&theme=elegant&area=true&order=5" height="317" alt="activity-graph graph" />
 </div>
 
 ###
