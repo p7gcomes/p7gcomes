@@ -31,9 +31,10 @@
 <br clear="both">
 
 <div style="display: flex; align-items: center;">
+  
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=p7gcomes&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p7gcomes&layout=compact&langs_count=7&theme=codeSTACKr&timestamp={{timestamp}}"/>
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=p7gcomes&radius=16&theme=elegant&area=true&order=5" height="265" alt="activity-graph graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=p7gcomes&radius=16&theme=elegant&area=true&order=5" height="240" alt="activity-graph graph" />
 </div>
   
 ###
