@@ -44,7 +44,7 @@
   <a href="https://www.linkedin.com/in/pedrogomesz" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" /></a>
   <a href="mailto:pedrosilvagomes3107@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail logo" /></a>
   <a href="https://www.youtube.com/@p7gomes_0" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="YouTube logo" /></a>
-  <a href="https://www.instagram.com/p7gomes_" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram logo" /></a>
+  <a href="https://www.instagram.com/p3drog0mes" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram logo" /></a>
 
 ###
 ![snake gif](https://github.com/p7gcomes/p7gcomes/blob/output/github-contribution-grid-snake.gif)
