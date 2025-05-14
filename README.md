@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Profissional de tecnologia com experiência em Análise e Governança de Dados. Cursando o 4º semestre de Gestão da Tecnologia da Informação, com conhecimentos em Python, SQL, Power BI, IA e Machine Learning. Apaixonado por aprendizagem contínua, resolução de problemas e inovação em tecnologia e dados.</p>
+<p align="left">Profissional de tecnologia com experiência em Análise e Governança de Dados. Cursando o 4º semestre de Gestão da Tecnologia da Informação, com conhecimentos em Python, SQL, Power BI, IA e Machine Learning. Apaixonado pela aprendizagem contínua, resolução de problemas, inovação em tecnologia e dados.</p>
 
 ###
 
